@@ -1,0 +1,32 @@
+Projetos segundo bimestre
+Projeto 3 – Sistema de Gerenciamento de Restaurantes e Pedidos Online;
+
+Requisitos:
+usar o GitHub e o Live Share
+adicionar interface gráfica
+Relacionamento de classes: Associação, agregação, composição, coesão e
+acoplamento;
+Relacionamento de classes: Herança, classes abstratas, interfaces e
+polimorfismo;
+Coleções: Listas, conjuntos e mapas.
+
+✅ Requisitos atendidos:
+Associação
+Composição
+Coesão
+Uso de Listas (ArrayList)
+herança
+classes abstratas
+poliformismo (eu acho)
+
+⚠️ Requisitos parcialmente atendidos(poderia ser melhor projetado, mas se olhar bem estão no código):
+Agregação
+Acoplamento (existe, mas poderia ser melhor projetado)
+
+❌ Requisitos não atendidos:
+Interface gráfica
+Interfaces(interface criada com o código interface)
+Conjuntos (Set) (acredito que não precise pois ja usamos ArrayList)
+Mapas (Map)(acredito que não precise pois ja usamos ArrayList)
+
+prazo: 17/07/2026
