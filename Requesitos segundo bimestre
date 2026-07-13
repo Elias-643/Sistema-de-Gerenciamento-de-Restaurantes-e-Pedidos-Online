@@ -26,7 +26,5 @@ Acoplamento (existe, mas poderia ser melhor projetado)
 ❌ Requisitos não atendidos:
 Interface gráfica
 Interfaces(interface criada com o código interface)
-Conjuntos (Set) (acredito que não precise pois ja usamos ArrayList)
-Mapas (Map)(acredito que não precise pois ja usamos ArrayList)
 
 prazo: 17/07/2026
